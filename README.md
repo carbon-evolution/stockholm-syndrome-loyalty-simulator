@@ -73,5 +73,7 @@ The visualization shows the progression of loyalty metrics over time, including:
 - Health score and loyalty state classifications
 - Risk factors at each measurement point
 
+![image](https://github.com/user-attachments/assets/692965a6-b927-428b-860d-877765664324)
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details. 
